@@ -16,7 +16,7 @@ AI Product Development: Chatbots, Generative AI, LLMs, Computer Vision
 
 Software Engineering: API development, cloud deployment (Azure, AWS), CI/CD
 
-Visualization & Analytics: Matplotlib, Seaborn, Plotly, Tableau
+Visualization & Analytics: Matplotlib, Seaborn, Plotly, Tableau, PowerBI
 
 📌 Featured Projects
 
